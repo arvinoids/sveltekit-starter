@@ -1,4 +1,9 @@
 # create-svelte
+Things I have added to this starter:
+- tailwindcss
+- daisyui
+- pocketbase with oauth2
+- dark mode toggle
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
